@@ -1,4 +1,4 @@
-# COLLECTION-model4821
+# COLLECTION-model4831
 
 Source and required libraries for the MCCI&reg; Model 4821 Indoor Environment Sensor.
 
