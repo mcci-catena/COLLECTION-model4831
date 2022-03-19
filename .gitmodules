@@ -28,3 +28,6 @@
 [submodule "sketches/catena4618m201_simple"]
 	path = sketches/catena4618m201_simple
 	url = https://github.com/mcci-catena/catena4618m201_simple.git
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
